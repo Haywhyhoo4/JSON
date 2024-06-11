@@ -1,0 +1,40 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "full name": "Micheal Joseph",
+            "phone number": "08025352676",
+            "email": "micheal@gmail.com",
+            "salary": "150000"
+        },
+        {
+            "id": 2,
+            "full name": "Emmanuel Joseph",
+            "phone number": "08025342676",
+            "email": "emmanuel@gmail.com",
+            "salary": "180000"
+        },
+        {
+            "id": 3,
+            "full name": "Amaka Timothy",
+            "phone": "080454678",
+            "email": "amaka@gmx.com",
+            "salary": "160500"
+        },
+        {
+            "id": 4,
+            "full name": "Toke Timothy",
+            "phone": "080454978",
+            "email": "toke@gmx.com",
+            "salary": "170500"
+        },
+        {
+            "id": 5,
+            "full name": "Seun Timothy",
+            "phone": "081454978",
+            "email": "seun@gmx.com",
+            "salary": "170900"
+        }
+        
+    ]
+}
